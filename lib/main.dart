@@ -15,12 +15,9 @@ import 'pages/home/home_page.dart' show HomePage;
 //Root app
 void main() async {
   init();
-  
-  
+
   runApp(MyApp());
 }
-
-
 
 init() {
   /// Configuration example 1
